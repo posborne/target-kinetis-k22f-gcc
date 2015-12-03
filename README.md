@@ -11,7 +11,7 @@ This target description inherits from the generic
 which provides most of the information about how to run the compiler.
 
 **To build for the FRDM K22F development board, use the
-[frdm-k22f-gcc](TBD) target
+[frdm-k22f-gcc](https://github.com/posborne/target-frdm-k22f-gcc) target
 description** (which inherits from this one). The frdm-k22f target description
 also provides a good starting point to copy if you are creating a new target
 description for your own board using a K22F microcontroller.
